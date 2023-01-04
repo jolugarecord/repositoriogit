@@ -1,0 +1,14 @@
+p {
+    color: red;
+    width: 300px;
+}
+h1 {
+    border: 1px solid black;
+    padding: 6px;
+    margin-top: 40px;
+    margin-bottom 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    color:grey
+}
